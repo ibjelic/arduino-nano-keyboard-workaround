@@ -13,5 +13,5 @@ Circuit:
 Some pics:
 
 ![Ivewastedmytimereally](pic2.jpg)
-![thisworkslol](pic2.jpg)
+![thisworkslol](pic1.jpg)
 
